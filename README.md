@@ -7,8 +7,7 @@ _By Isaac Chau and Julian Pelzner_
 
 [Link to a video demo of the project](https://www.youtube.com/watch?v=drUEo_xmK04&feature=youtu.be)
 
-
-![](nba_mvp.git)
+[](nba_mvp.git)
 
 This project is a visual story told with NBA players' statistics that investigates who the most valuable "Most Valuable Player" was out of the NBA's 2013 to 2018 seasons. The first 4 pages explain how we selected the best player of the cohort, and the last 4 pages show some statistics that explain what makes him stand out even among the best of the best.
 
