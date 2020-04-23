@@ -4,6 +4,7 @@
 _By Isaac Chau and Julian Pelzner_
 
 [Link to the project website INSERT LINK](http://google.com)
+
 [Link to a video demo of the project INSERT LINK](http://google.com)
 
 
@@ -23,7 +24,7 @@ cd NBA-MVP
 ```
 Clone this repository.
 ```
-git clone https://github.com/ABCDEFGHIJKLMNOP
+git clone https://github.com/JBPelzner/NBA-MVP-comparison.git
 ```
 Enter the website's directory.
 ```
